@@ -4,6 +4,7 @@ body{
 	font-family:Arial;
 	font-size:20px;
 	text-align:justify;
+	font-weight:Bold;
 }
 h1{
 	text-align:center;
@@ -46,6 +47,7 @@ body{
 	font-family:Arial;
 	font-size:20px;
 	text-align:justify;
+	font-weight:Bold;
 }
 h1{
 	text-align:center;
